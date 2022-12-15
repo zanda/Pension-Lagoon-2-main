@@ -2,7 +2,7 @@ import * as React from 'react';
 const Navbar = () => (
   <nav className="navbar navbar-expand-lg navbar-dark">
     <div className="container-fluid ">
-      <a className="navbar-brand mt-4" href="#">
+      <a className="navbar-brand mt-4" href="/">
         <img
           width="50"
           height="50"
