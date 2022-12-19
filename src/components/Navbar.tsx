@@ -59,6 +59,11 @@ const Navbar = () => (
               Contact
             </a>
           </li>
+          <li className='nav-item'>
+            <a className='nav-link' href="/clients">
+              Gérer les clients
+            </a>
+          </li>
         </ul>
       </div>
     </div>
